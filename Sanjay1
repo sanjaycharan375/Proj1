@@ -1,1 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <titel>My first html page</titel>
+
+</head>
+<body>
+    <!--this i a webpage-->
+    <h1> hi    </h1><!--header size 1-->
+    <br><!--line break-->
+    <hr><!--horrizontal line-->
+    <h1> hello</h1>
+    <p>i am sanjay charan of class 12 c ,i am creating a webpage</p>
+    <a herf="page2.html" target="blank" title="this takes to google">
+        google<!--hyper link to page 2-->
+    </a>
+    <br>
+    <a herf="mailto:123@gmail.com">
+        mail me<!--mails to the given mail id-->
+    </a>
+    <br>
+    <img src="" height="200">
+    <h1>image comes above</h1>
+    <audio controls autoplay src="">
+        <source src="">
+        this dosnt support audio or video
+    </audio>
+    <video controls src="" width="200">
+        <source src="">
+    </video> 
+    <p>this i a text</p>
+    <p><b>this i a text</b></p>
+    <p>this i a text</p>
+    <p>this i a text</p>
+    <p>this i a text</p>
+    <p>this i a text</p>
+    <p>this i a text</p>
+    <p>this i a text</p>
+    
+</body>
+</html>
 
